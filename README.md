@@ -1,1 +1,2 @@
 # Ad_Analysis_Excel
+In one month April 2024 both the company started a campaign with different strategies and different campaigns and with their set. Google started Campaign A and Campaign B. Facebook also started their own campaign LookalikeAudience, OpenAudience, Retargeting. They started their campaign with different different set. Now we are going to analyze who is the most effective and with in less investment get more growth in Ad.
